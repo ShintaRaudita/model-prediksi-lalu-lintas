@@ -8,16 +8,15 @@ Repositori ini mencakup tahapan analisis eksploratif data (EDA), rekayasa fitur 
 
 ## Daftar Isi
 - [Dataset](#-dataset)
-- [Tahapan & Alur Kerja (Workflow Pipeline)](#-tahapan--alur-kerja-workflow-pipeline)
+- [Tahapan & Alur Kerja (Workflow Pipeline)](#tahapan--alur-kerja-workflow-pipeline)
   - [1. Exploratory Data Analysis (EDA) & Data Cleaning](#1-exploratory-data-analysis-eda--data-cleaning)
   - [2. Feature Engineering & Preprocessing](#2-feature-engineering--preprocessing)
   - [3. Penanganan Imbalanced Data](#3-penanganan-imbalanced-data)
   - [4. Data Splitting](#4-data-splitting)
   - [5. Tahapan Eksperimen & Skenario Pengujian](#5-tahapan-eksperimen--skenario-pengujian)
 - [Hasil Evaluasi Akhir Model Terbaik](#-hasil-evaluasi-akhir-model-terbaik)
-- [Tech Stack & Pustaka](#-tech-stack--pustaka)
+- [Tech Stack & Pustaka](#tech-stack--pustaka)
 - [Struktur Direktori](#-struktur-direktori)
-- [Panduan Menjalankan Notebook](#-panduan-menjalankan-notebook)
 
 ---
 
